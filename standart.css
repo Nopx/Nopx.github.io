@@ -1,8 +1,11 @@
+@import url(https://fonts.googleapis.com/css?family=Oswald);
 html{
 	background-color: #ffffff;
 	text-align: center;
+	font-family: 'Oswald', sans-serif;
 }
 
 h1{
 	text-align: center;
+	
 }
