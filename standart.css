@@ -1,9 +1,8 @@
-#randomNumber{
-	font-size : 200px;
-	text-align: center;
-	color: #ffffff;
-	margin-bottom: -3cm;
-}
 html{
 	background-color: #ffffff;
+	text-align: center;
+}
+
+h1{
+	text-align: center;
 }
