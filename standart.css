@@ -8,5 +8,8 @@ html{
 
 h1{
 	text-align: center;
-	
+}
+
+#updateComment{
+	font-size: 12px
 }
