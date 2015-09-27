@@ -10,6 +10,12 @@ h1{
 	text-align: center;
 }
 
+img{
+	border-width:5px;
+	border-color:#000000;
+	border-style:solid;
+}
+
 #updateComment{
 	font-size: 12px
 }
